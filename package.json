@@ -1,0 +1,25 @@
+{
+  "name": "expressjs-hello-world",
+  "version": "1.0.0",
+  "description": "hellowolrd in expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviomicheletti/expressjs-hello-world.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Flavio Micheletti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviomicheletti/expressjs-hello-world/issues"
+  },
+  "homepage": "https://github.com/flaviomicheletti/expressjs-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
