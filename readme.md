@@ -1,8 +1,8 @@
-# Express.js - hello world
-
 ![ExpressJS.png](ExpressJS.png)
 
-__Install:__
+# Express.js - hello world
+
+__Create:__
 
     npm init
 
@@ -14,10 +14,12 @@ __Install:__
     // found 0 vulnerabilities
 
 
-__Express:__
-
 Create de file [app.js](app.js).
 
+__Install:__
+
+    Clone this repo
+    npm i
 
 __Run:__
 
