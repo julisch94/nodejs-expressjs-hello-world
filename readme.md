@@ -3,7 +3,9 @@
 ![ExpressJS](https://user-images.githubusercontent.com/1257048/84825699-34c07600-aff8-11ea-9bca-c05db9e50d80.png)
 
 
-__Install:__
+# hello world
+
+__Create:__
 
     npm init
 
@@ -15,10 +17,12 @@ __Install:__
     // found 0 vulnerabilities
 
 
-__Express:__
-
 Create de file [app.js](app.js).
 
+__Install:__
+
+    Clone this repo
+    npm i
 
 __Run:__
 
